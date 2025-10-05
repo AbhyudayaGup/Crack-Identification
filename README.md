@@ -1,6 +1,6 @@
 # Mosaic Crack Detection using OpenCV
 
-This project implements a basic image processing pipeline using OpenCV to detect cracks in mosaic images. The goal is to identify and visualize structural cracks in mosaic surfaces by enhancing contrast, detecting edges, and isolating line features.
+This project implements a basic image processing pipeline using OpenCV to detect cracks in mosaic images. The goal is to identify and visualize structural cracks in mosaic surfaces by enhancing contrast, detecting edges, and isolating line features. It shows the output in multiple windows.
 
 Dependencies
 Ensure you have the following Python packages installed:
