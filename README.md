@@ -4,7 +4,7 @@ This project implements a basic image processing pipeline using OpenCV to detect
 
 Dependencies
 Ensure you have the following Python packages installed:
-1) opencv
+1) opencv (for edge detection on the images given)
 2) numpy
 3) matplotlib
 
