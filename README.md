@@ -6,7 +6,7 @@ Dependencies
 Ensure you have the following Python packages installed:
 1) opencv (for edge detection on the images given)
 2) numpy (also for analyzing the image)
-3) matplotlib
+3) matplotlib (displaying results in a new window)
 
 Usage:
 1) Clone or download the repository.
